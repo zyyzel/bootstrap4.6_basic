@@ -1,0 +1,8 @@
+*.psd
+/origin           -/는 폴더양 origin폴더에있는거 빼구웅
+plan.pdf
+plan_*.pdf        -pdf파일다빼용
+scr/svg/logo.*    -확장자 상관없이 logo이름가진 파일은 다 올리지마라~ (원래 폴더는 /svg,svg/임! /svg/는 앞에 루트디렉토리가 있엉~ )
+img/              -다막고싶으면 img/ /앞에있으면 루트디렉토리에 있는거 빼공
+*.asf             -영상파일 올리지망~
+*.hwp             -한글파일 올리지망~
